@@ -10,7 +10,7 @@
 
 Passionate developer specializing in backend systems, low-level programming, and scalable solutions. Experienced in building robust applications and optimizing performance-critical code.
 
-Based in **Czech Republic** • Open to collaboration • Always learning
+Based in **USA** • Open to collaboration • Always learning
 
 ---
 
