@@ -1,39 +1,48 @@
 <div align="center">
 
-# Hello, I'm <span style="color: #3b82f6;">TazeD</span>
+# Hey, I'm **TazeD** 👨‍💻
 
 ---
 
-### About Me
+### 🚀 About Me
 
-<p>
-  Developer and technology enthusiast<br>
-  Interested in <b>Backend Development</b>, <b>System Programming</b>, and <b>Software Engineering</b><br>
-  Always learning new technologies and building useful projects
-</p>
+Passionate developer diving deep into **backend systems**, **low-level programming**, and **full-stack development**. Always experimenting with new tech and building cool stuff.
+
+Currently based in Czech Republic, always open to new challenges and collaboration.
 
 ---
 
-### Languages & Tools
+### 🛠️ Tech Stack
 
-<p><sub>▸ Programming Languages</sub></p>
+**Languages I work with:**
+```
+Python  •  C  •  C++  •  Java  •  JavaScript  •  TypeScript  •  Lua  •  SQL
+```
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3b82f6" alt="Python" />
-  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=3b82f6" alt="C" />
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=3b82f6" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=3b82f6" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=3b82f6" alt="JavaScript" />
-</p>
+**Frameworks & Tools:**
+- Backend: Node.js, Express
+- Databases: PostgreSQL, MongoDB
+- DevOps: Docker, Git
+- Game Dev: FiveM scripting, Lua scripting
 
-<p><sub>▸ Tools & Databases</sub></p>
+**Currently exploring:**
+- System programming & optimization
+- Distributed systems
+- Advanced backend architecture
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3b82f6" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=3b82f6" alt="Git" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=3b82f6" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=3b82f6" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=3b82f6" alt="Docker" />
-</p>
+---
+
+### 💡 What I Do
+
+- 🔧 Backend & system development
+- 🎮 FiveM server scripts & game development
+- 📊 Database design & optimization
+- 🚀 Building efficient, scalable solutions
+
+---
+
+### 📫 Let's Connect
+
+Always down for interesting projects and tech discussions!
 
 </div>
